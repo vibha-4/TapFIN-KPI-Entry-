@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel='stylesheet' type='text/css' href='1.css'/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In</title>
+
+</head>
+<body>
+    <div class="login-container">
+
+        <h1>TAPFIN KPI Entry Form</h1>
+        <img class="logo" src="" alt="Company Logo">
+        <h3>Sign In</h3>
+        <p class="bla">Email</p>
+
+
+        <form id="login-form">
+            
+            <input class="input-field" type="text" id="username" name="username" placeholder="Username" required>
+            <p class="bla">Password</p>
+
+            <input class="input-field" type="password" id="password" name="password" placeholder="Password" required>
+            <button type="submit" class="login-button">Login</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById("login-form").addEventListener("submit", function (e) {
+            e.preventDefault();
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+            
+            // Perform client-side validation and/or submit the form data to your server for authentication.
+            // Example client-side validation:
+            if (username === "your_username" && password === "your_password") {
+                alert("Login successful!");
+                // Redirect to the HR dashboard or perform other actions here.
+            } else {
+                alert("Invalid credentials. Please try again.");
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,152 @@
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    
+}
+*{
+    font-size: 25px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.input-field {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.login-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.loginthing
+{
+    text-align: right;
+}
+
+.button-conatiner
+{
+    width: 100px;
+    height: 40px;
+    color: rgb(74, 19, 19);
+    border: none;
+    position:absolute;
+    top: 50%;
+    left: 10%;
+}
+.dropdown
+{
+    width: 100px;
+    height: 40px;
+    top: 25%;
+    left: 10%;
+    position:absolute;
+}
+.dropdown1
+{
+    width: 100px;
+    height: 60px;
+    top: 5.5%;  
+    left: 10%;
+    position:absolute;
+
+}
+.dropdown2
+{
+    width: 100px;
+    height: 60px;
+    top: 6%;
+    left: 55%;
+    position:absolute;
+
+}
+.dropdown3
+{
+    width: 100px;
+    height: 60px;
+    top: 29%;
+    left: 55%;
+    position:absolute;
+
+}
+.usrn
+ {
+    position: absolute;
+    height: 15px;
+    top: 2%;
+    left: 81%;
+    background-color: #007BFF;
+    color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.nextpage1
+{
+    top: 85%;
+    left: 92%;
+    position: absolute;
+    width: 90px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+.singleline
+{
+    white-space:nowrap;
+    font-size: 25px;
+
+}
+
+.box1
+{
+    width: 205px;
+    height: 60px;
+    top: 52%;
+    left: 10%;
+    position:absolute;
+}
+.box2
+{
+    
+
+    width: 205px;
+    height: 60px;
+    top: 72%;
+    left: 10%;
+    position:absolute;
+
+}
+.box3
+{
+    
+
+    width: 100px;
+    height: 60px;
+    top: 52%;
+    left: 55%;
+    position:absolute;
+
+}
+

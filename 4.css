@@ -1,0 +1,571 @@
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    
+}
+*{
+    font-size: 25px;
+}
+
+.box1
+{
+    width: 100px;
+    height: 10px;
+    top: 0%;
+    left: 03%;
+    position:absolute;
+    font-size:xx-large;
+}
+.box2
+{   width: 150px;
+    height: 10px;
+    top: 0%;
+    left: 35%;
+    position:absolute;
+}
+.box3
+{
+    
+    width: 100px;
+    height: 60px;
+    top: 0%;
+    left: 70%;
+    position:absolute;
+
+}
+.box4
+{
+    width: 100px;
+    height: 10px;
+    top: 30%;
+    left: 03%;
+    position:absolute;
+    font-size:xx-large;
+}
+
+
+.singleline
+{
+    white-space:nowrap;
+    font-size:25px;
+} 
+
+.left {
+    position: absolute;
+    top:24%;
+    left:3%;
+}
+.middle {
+    position: absolute;
+    top:24%;
+    left: 38%;
+
+}
+
+.right {
+    position: absolute;
+    top:24%;
+    left:56%;
+
+}
+.rando
+{
+    position: absolute;
+    top:24%;
+    left:70%;
+    height:100px;
+}
+.Tt1{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 55%;
+    left: 03%;
+    position:absolute;
+}
+.Tt2{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 65%;
+    left: 03%;
+   
+}
+.Tt3{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 75%;
+    left: 03%;
+    
+}
+.W1
+{
+    top: 43.5%;
+    left: 037%;
+    position:absolute;
+
+}
+#WW1
+{
+    width:130px;
+}
+.Ww1
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 55%;
+    left: 37%;
+}
+.Ww2
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 65%;
+    left: 37%;
+}
+.Ww3
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 75%;
+    left: 37%;
+}
+
+.rat11{
+  position: absolute;
+  top:53%;
+  left:55%;
+  height: 5px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 2px;
+  width:20px;
+
+}
+.rat12{
+    position: absolute;
+    top:63%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+  .rat13{
+    position: absolute;
+    top:73%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+
+#Www1{
+    width:130px;
+}
+#Www2{
+    width:130px;
+}
+#Www3{
+    width:130px;
+}
+
+#language
+{
+    width:60px;
+}
+
+.rando11
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 55%;
+    left: 70%;
+}
+
+.rando12
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 65%;
+    left: 70%;
+}
+
+.rando13
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 75%;
+    left: 70%;
+}
+
+
+
+
+
+
+
+.box5
+{
+    width: 100px;
+    height: 10px;
+    top: 83%;
+    left: 03%;
+    position:absolute;
+    font-size:xx-large;
+}
+.Tt21{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 107%;
+    left: 03%;
+    position:absolute;
+}
+.Tt22{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 117%;
+    left: 03%;
+   
+}
+.Tt23{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 127%;
+    left: 03%;
+}
+.W2
+{
+    top: 97%;
+    left: 037%;
+    position:absolute;
+
+}
+#WW2
+{
+    width:130px;
+}
+.Ww21
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 107%;
+    left: 37%;
+}
+.Ww22
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 117%;
+    left: 37%;
+}
+.Ww23
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 127%;
+    left: 37%;
+}
+
+.rat21{
+  position: absolute;
+  top:105.5%;
+  left:55%;
+  height: 5px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 2px;
+  width:20px;
+
+}
+.rat22{
+    position: absolute;
+    top:115.5%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+  .rat23{
+    position: absolute;
+    top:125.5%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+
+#Www21{
+    width:130px;
+}
+#Www22{
+    width:130px;
+}
+#Www23{
+    width:130px;
+}
+
+#language
+{
+    width:60px;
+}
+
+.rando21
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 107%;
+    left: 70%;
+}
+
+.rando22
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 117%;
+    left: 70%;
+}
+
+.rando23
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 127%;
+    left: 70%;
+}
+
+
+.box6
+{
+    width: 100px;
+    height: 10px;
+    top: 135%;
+    left: 03%;
+    position:absolute;
+    font-size:xx-large;
+}
+.Tt31{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 159%;
+    left: 03%;
+    position:absolute;
+}
+.Tt32{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 169%;
+    left: 03%;
+   
+}
+.Tt33{
+    position:absolute;
+    width: 100px;
+    height: 10px;
+    top: 179%;
+    left: 03%;   
+}
+
+.W3
+{
+    top: 148%;
+    left: 037%;
+    position:absolute;
+}
+#WW3
+{
+    width:130px;
+}
+.Ww31
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 159%;
+    left: 37%;
+}
+.Ww32
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 169%;
+    left: 37%;
+}
+.Ww33
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 179%;
+    left: 37%;
+}
+
+.rat31{
+  position: absolute;
+  top:157%;
+  left:55%;
+  height: 5px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 2px;
+  width:20px;
+
+}
+.rat32{
+    position: absolute;
+    top:167%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+  .rat33{
+    position: absolute;
+    top:177%;
+    left:55%;
+    height: 5px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 2px;
+    width:20px;
+  
+  }
+
+#Www31{
+    width:130px;
+}
+#Www32{
+    width:130px;
+}
+#Www33{
+    width:130px;
+}
+
+#language
+{
+    width:60px;
+}
+
+.rando31
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 159%;
+    left: 70%;
+}
+
+.rando32
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 169%;
+    left: 70%;
+}
+
+.rando33
+{
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    top: 179%;
+    left: 70%;
+}
+
+
+.sd1
+{
+    position: absolute;
+    top: 195%;
+    left: 2%;    
+    width: 180px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.fr1
+{
+    position: absolute;
+    top: 195%;
+    left: 20%;    
+    width: 120px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
